@@ -1,776 +1,1036 @@
-00:00:00.320,00:00:06.020
+﻿1
+00:00:00,320 --> 00:00:06,020
 Minha conversa hoje é sobre criar trabalhos e fazer dinheiro com software livre
 
-00:00:06.500,00:00:10.340
+2
+00:00:06,500 --> 00:00:10,340
 Eu sei que parece uma contradição, mas é verdade
 
-00:00:11.840,00:00:15.520
+3
+00:00:11,840 --> 00:00:15,520
 Eu tenho uma ampla variedade de diferentes trabalhos que faço
 
-00:00:15.960,00:00:18.300
+4
+00:00:15,960 --> 00:00:18,300
 Eu sou presidente da Linux International
 
-00:00:18.800,00:00:25.760
+5
+00:00:18,800 --> 00:00:25,760
 Que é uma organização que ajuda empresas a usarem software livre
 
-00:00:27.120,00:00:33.680
+6
+00:00:27,120 --> 00:00:33,680
 E também sou o presidente do conselho de diretores do instituto de profissionais Linux
 
-00:00:34.400,00:00:41.460
+7
+00:00:34,400 --> 00:00:41,460
 É uma organização que testa os profissionais Linux, para ver se eles realmente sabem como usar Linux
 
-00:00:42.260,00:00:47.440
+8
+00:00:42,260 --> 00:00:47,440
 Então, quando alguém deseja contratá-los, perguntarão se são certificados
 
-00:00:47.800,00:00:51.340
+9
+00:00:47,800 --> 00:00:51,340
 O que é uma coisa que pode gerar um emprego
 
-00:00:53.060,00:00:56.600
+10
+00:00:53,060 --> 00:00:56,600
 Também sou consultor de uma companhia chamada Linaro
 
-00:00:57.180,00:01:02.760
+11
+00:00:57,180 --> 00:01:02,760
 E Linaro é uma organização que ajuda a colocar o sistema operacional Linux,
 
-00:01:03.220,00:01:07.640
+12
+00:01:03,220 --> 00:01:07,640
 Ambos GNU/Linux e Android, em processadores ARM
 
-00:01:08.040,00:01:09.880
+13
+00:01:08,040 --> 00:01:09,880
 E eu faço consultoria com eles
 
-00:01:10.640,00:01:16.820
+14
+00:01:10,640 --> 00:01:16,820
 E em adição a isso, eu sou uma das pessoas que começou um projeto aqui no Brasil, chamado Caninos Loucos
 
-00:01:17.080,00:01:19.160
+15
+00:01:17,080 --> 00:01:19,160
 E eu vou falar mais sobre isso depois
 
-00:01:19.400,00:01:23.160
+16
+00:01:19,400 --> 00:01:23,160
 As pessoas no fundo não conseguem ouvi-lo muito bem, poderias usar o microfone?
 
-00:01:23.200,00:01:24.760
+17
+00:01:23,200 --> 00:01:24,760
 Ok, Claro! Usarei o microfone.
 
-00:01:29.120,00:01:31.440
+18
+00:01:29,120 --> 00:01:31,440
 CLARO QUE EU PODERIA FALAR MAIS ALTO!
 
-00:01:32.600,00:01:33.100
+19
+00:01:32,600 --> 00:01:33,100
 Obrigado
 
-00:01:34.600,00:01:41.920
+20
+00:01:34,600 --> 00:01:41,920
 Em adição a isso (Linaro), eu sou uma das pessoas que começou um projeto, chamado Caninos Loucos
 
-00:01:42.360,00:01:50.560
+21
+00:01:42,360 --> 00:01:50,560
 Esse projeto está tentando produzir pequenos computadores ao estilo Raspberry Pi aqui no Brasil
 
-00:01:51.040,00:01:55.000
+22
+00:01:51,040 --> 00:01:55,000
 Logo, deixando mais acessível para pessoas como vocês
 
-00:01:55.920,00:02:00.740
+23
+00:01:55,920 --> 00:02:00,740
 E finalmente: eu sou o presidente do projeto chamado Cauã (Project Cauã)
 
-00:02:00.740,00:02:07.600
+24
+00:02:00,740 --> 00:02:07,600
 Que é um projeto para fazer uma variedade de coisas, mas principalmente para criar empregos para brasileiros
 
-00:02:07.620,00:02:09.320
+25
+00:02:07,620 --> 00:02:09,320
 Falaremos disso depois
 
-00:02:10.480,00:02:16.420
+26
+00:02:10,480 --> 00:02:16,420
 E recentemente, em Julho passado, eu virei chefe executivo de uma empresa chamada Optin
 
-00:02:16.420,00:02:21.420
+27
+00:02:16,420 --> 00:02:21,420
 Nós fazemos peer-to-peer software para nuvem (cloud software)
 
-00:02:21.420,00:02:30.320
+28
+00:02:21,420 --> 00:02:30,320
 O que isso significa que quando você pensa na nuvem, tipicamente você pensa em Google ou Amazon, ou Microsoft Azure
 
-00:30:00.300,00:30:03.342
+29
+00:30:00,300 --> 00:30:03,342
 Tudo o que você precisa dizer é que todos eles parecem o mesmo
 
-00:30:03.428,00:30:08.200
+30
+00:30:03,428 --> 00:30:08,200
 Mas você sabe de uma coisa? Não existe um que seja igual
 
-00:30:08.200,00:30:13.280
+31
+00:30:08,200 --> 00:30:13,280
 Todos são diferentes e estes são os problemas dos negócios: são todos diferentes
 
-00:30:15.280,00:30:18.780
+32
+00:30:15,280 --> 00:30:18,780
 Agora, empresas de software amam software proprietário
 
-00:30:18.780,00:30:21.680
+33
+00:30:18,780 --> 00:30:21,680
 Porque elas podem contratar vocês aí
 
-00:30:21.680,00:30:23.980
+34
+00:30:21,680 --> 00:30:23,980
 Não, vocês são muito caros
 
-00:30:23.980,00:30:28.080
+35
+00:30:23,980 --> 00:30:28,080
 Eles vão para Índia ou China para contratar o pessoal deles
 
-00:30:28.080,00:30:30.680
+36
+00:30:28,080 --> 00:30:30,680
 E o Brasil que vá se catar. Não é?
 
-00:30:30.720,00:30:36.340
+37
+00:30:30,720 --> 00:30:36,340
 Então eles irão manufaturar aquele software e vender para brasileiros
 
-00:30:36.340,00:30:40.140
+38
+00:30:36,340 --> 00:30:40,140
 Para que vocês mandem dinheiro, para fora do Brasil
 
-00:30:40.140,00:30:44.240
+39
+00:30:40,140 --> 00:30:44,240
 Para eles, fazendo-os mais ricos do que nunca!
 
-00:30:44.914,00:30:48.640
+40
+00:30:44,914 --> 00:30:48,640
 O problema é que eles apenas te vendem latas de moedas
 
-00:30:48.640,00:30:52.440
+41
+00:30:48,640 --> 00:30:52,440
 E eles não vão te ajudar a fazer o seu serviço
 
-00:30:52.440,00:30:57.740
+42
+00:30:52,440 --> 00:30:57,740
 Por um longo período de tempo, uma empresa com sede em Washington, chamada...
 
-00:30:57.740,00:30:59.740
+43
+00:30:57,740 --> 00:30:59,740
 [grhhh] Microsoft
 
-00:30:59.740,00:31:06.240
+44
+00:30:59,740 --> 00:31:06,240
 Diria que o sofware livre seria mais caro que o software proprietário
 
-00:31:06.240,00:31:12.140
+45
+00:31:06,240 --> 00:31:12,140
 Porque mesmo que você tenha que pagar o valor de uma licença do software proprietário
 
-00:31:12.140,00:31:18.340
+46
+00:31:12,140 --> 00:31:18,340
 Seria mais fácil encontrar pessoas que saberiam como o usar, e estas custariam menos
 
-00:31:18.340,00:31:23.640
+47
+00:31:18,340 --> 00:31:23,640
 Portanto, compensaria mais usá-lo
 
-00:31:23.640,00:31:26.371
+48
+00:31:23,640 --> 00:31:26,371
 Ao longo do tempo eles meio que mudaram
 
-00:31:26.440,00:31:31.480
+49
+00:31:26,440 --> 00:31:31,480
 A razão para que o pessoal do software livre era mais caro tinha dois lados:
 
-00:31:31.628,00:31:36.242
+50
+00:31:31,628 --> 00:31:36,242
 1º, haviam menos pessoas que tinham conhecimento sobre software livre
 
-00:31:36.240,00:31:43.640
+51
+00:31:36,240 --> 00:31:43,640
 Mas, em 2º, o pessoal do software livre sabia que poderia criar uma solução melhor para o cliente
 
-00:31:43.771,00:31:48.640
+52
+00:31:43,771 --> 00:31:48,640
 Com isso, eles cobravam mais. Consequentemente, os clientes pagavam mais
 
-00:31:48.640,00:31:54.540
+53
+00:31:48,640 --> 00:31:54,540
 Mas, agora, há mais pessoas fazendo software livre e o preço diminuiu um pouco
 
-00:31:54.540,00:32:01.340
+54
+00:31:54,540 --> 00:32:01,340
 E o custo total do registro era mais ou menos o mesmo naquele período de 5 anos
 
-00:32:01.340,00:32:05.440
+55
+00:32:01,340 --> 00:32:05,440
 Referente ao software livre versus software proprietário
 
-00:32:05.440,00:32:07.942
+56
+00:32:05,440 --> 00:32:07,942
 Mas eu não me importo!
 
-00:32:07.940,00:32:10.400
+57
+00:32:07,940 --> 00:32:10,400
 Isto não é a coisa mais importante
 
-00:32:10.514,00:32:15.140
+58
+00:32:10,514 --> 00:32:15,140
 Se você não consegue pagar pela solução, obviamente, você está com problemas
 
-00:32:15.257,00:32:20.440
+59
+00:32:15,257 --> 00:32:20,440
 Mas, uma vez que você pagou pela solução, você deve ir ao próximo passo
 
-00:32:20.440,00:32:25.740
+60
+00:32:20,440 --> 00:32:25,740
 Qual é o melhor retorno para o seu investimento?
 
-00:32:26.571,00:32:31.340
+61
+00:32:26,571 --> 00:32:31,340
 Você fará mais dinheiro fazendo isto ou fará mais naquilo outro?
 
-00:32:31.340,00:32:35.140
+62
+00:32:31,340 --> 00:32:35,140
 E é sobre isto que o pessoal dos negócios sempre pensa!
 
-00:32:35.140,00:32:39.540
+63
+00:32:35,140 --> 00:32:39,540
 Sobre qual é o melhor retorno de investimento. Não sobre o custo para comprar um ship
 
-00:32:39.540,00:32:43.040
+64
+00:32:39,540 --> 00:32:43,040
 Mas sobre o melhor retorno de investimento
 
-00:32:43.040,00:32:48.040
+65
+00:32:43,040 --> 00:32:48,040
 E é nisto que queremos focar
 
-00:32:48.040,00:32:52.440
+66
+00:32:48,040 --> 00:32:52,440
 Eu vou contar mais uma coisa, antes que comecemos a ver alguns exemplos
 
-00:32:52.440,00:32:57.140
+67
+00:32:52,440 --> 00:32:57,140
 A maioria das pessoas não compram "produtos"
 
-00:32:57.140,00:33:01.240
+68
+00:32:57,140 --> 00:33:01,240
 A maioria das pessoas não compra um computador
 
-00:33:01.240,00:33:05.040
+69
+00:33:01,240 --> 00:33:05,040
 A maioria do pessoal não compra software
 
-00:33:05.040,00:33:13.640
+70
+00:33:05,040 --> 00:33:13,640
 Eu sei que aqui no Brasil, vocês pirateiam 84% do software desktop
 
-00:33:13.640,00:33:18.640
+71
+00:33:13,640 --> 00:33:18,640
 Me lembro de uma vez que eu vim ao Brasil e disse "vocês devem usar software que seja free!"
 
-00:33:18.640,00:33:25.440
+72
+00:33:18,640 --> 00:33:25,440
 E uma pessoa da platéia disse "Maddog, todo o nosso software é de graça!"
 
-00:33:25.440,00:33:32.840
+73
+00:33:25,440 --> 00:33:32,840
 Mas vejam que o problema dessa atitude é: o que acontece quando é o seu software?
 
-00:33:32.840,00:33:39.040
+74
+00:33:32,840 --> 00:33:39,040
 O software que vocês escreveram e querem viver do dinheiro que provém deste software
 
-00:33:39.040,00:33:45.540
+75
+00:33:39,040 --> 00:33:45,540
 E você sabe que 84% do software que vocês criam é roubado de vocês
 
-00:33:45.540,00:33:50.540
+76
+00:33:45,540 --> 00:33:50,540
 Isto é um problema e vocês deveriam pensar nisto
 
-00:33:51.680,00:33:55.971
+77
+00:33:51,680 --> 00:33:55,971
 As pessoas, na verdade, não querem comprar software, nem querem comprar hardware
 
-00:33:56.000,00:34:00.170
+78
+00:33:56,000 --> 00:34:00,170
 O que elas querem é comprar uma solução para um problema
 
-00:34:00.280,00:34:06.480
+79
+00:34:00,280 --> 00:34:06,480
 E, talvez, se o problema que você quer resolver é, simplesmente, jogar um jogo....
 
-00:34:06.480,00:34:10.942
+80
+00:34:06,480 --> 00:34:10,942
 Então você compra um computador e o software para solucionar este problema
 
-00:34:11.080,00:34:13.285
+81
+00:34:11,080 --> 00:34:13,285
 O de jogar o jogo
 
-00:34:13.280,00:34:20.842
+82
+00:34:13,280 --> 00:34:20,842
 E se você pudesse jogar este jogo com duas latas e um barbante por entre elas, você iria fazer desta forma
 
-00:34:20.840,00:34:24.640
+83
+00:34:20,840 --> 00:34:24,640
 Porque esta é a solução para o seu problema
 
-00:34:24.640,00:34:28.140
+84
+00:34:24,640 --> 00:34:28,140
 E quando você começa a pensar na solução para o problema...
 
-00:34:28.140,00:34:34.340
+85
+00:34:28,140 --> 00:34:34,340
 Você não se importa se você está usando Oracle, ou MySQL, ou Postgres
 
-00:34:34.340,00:34:38.140
+86
+00:34:34,340 --> 00:34:38,140
 Contanto que isto te entregue a melhor solução
 
-00:34:38.140,00:34:41.940
+87
+00:34:38,140 --> 00:34:41,940
 Da mesma forma, o seu cliente também não deveria se importar com isto
 
-00:34:41.940,00:34:45.628
+88
+00:34:41,940 --> 00:34:45,628
 Vocês deveriam fazê-los pensar desta forma
 
-00:34:45.620,00:34:51.220
+89
+00:34:45,620 --> 00:34:51,220
 O que as pessoas realmente querem é o serviço que vem da computação
 
-00:34:51.220,00:34:55.620
+90
+00:34:51,220 --> 00:34:55,620
 O serviço de ajudar a solucionar os seus problemas próprios
 
-00:34:55.620,00:34:59.420
+91
+00:34:55,620 --> 00:34:59,420
 E eles não se importam com o produto
 
-00:34:59.420,00:35:06.628
+92
+00:34:59,420 --> 00:35:06,628
 Quantos de vocês, em suas casas, tem um sistema computacional grudado na parede?
 
-00:35:06.620,00:35:11.200
+93
+00:35:06,620 --> 00:35:11,200
 Com uma vela em cada um dos lados como em um santuário?
 
-00:35:11.314,00:35:13.370
+94
+00:35:11,314 --> 00:35:13,370
 Ninguém?
 
-00:35:13.371,00:35:16.620
+95
+00:35:13,371 --> 00:35:16,620
 Obrigado, Sr. Wozniak
 
-00:35:16.620,00:35:23.420
+96
+00:35:16,620 --> 00:35:23,420
 Quantos de vocês, talvez, tenha uma caixa de softwares grudada na parede, com velas dos lados?
 
-00:35:24.710,00:35:27.910
+97
+00:35:24,710 --> 00:35:27,910
 Obrigado, Larry Ellison
 
-00:35:27.910,00:35:30.828
+98
+00:35:27,910 --> 00:35:30,828
 É a isto que me refiro: ninguém tem!
 
-00:35:30.820,00:35:33.314
+99
+00:35:30,820 --> 00:35:33,314
 É só um computador e, acreditem em mim
 
-00:35:33.310,00:35:39.510
+100
+00:35:33,310 --> 00:35:39,510
 Eu tenho US$ 500 mil em equipamentos computacionais velhos no meu porão
 
-00:35:39.720,00:35:45.320
+101
+00:35:39,720 --> 00:35:45,320
 E me custaria US$ 300 para levarem tudo isso ao ferro velho
 
-00:35:45.320,00:35:49.371
+102
+00:35:45,320 --> 00:35:49,371
 Vocês não querem isto, vocês querem serviço
 
-00:35:49.420,00:35:54.514
+103
+00:35:49,420 --> 00:35:54,514
 Mas muitas pessoas dizem: "eu não quero ter um serviço, não quero vender um serviço"
 
-00:35:54.571,00:35:59.680
+104
+00:35:54,571 --> 00:35:59,680
 Porque elas pensam em serviço como se fosse alguém girando hambúrgueres no McDonalds
 
-00:35:59.680,00:36:03.180
+105
+00:35:59,680 --> 00:36:03,180
 Este não é o tipo de serviço que estamos falando
 
-00:36:03.180,00:36:08.714
+106
+00:36:03,180 --> 00:36:08,714
 Nós estamos falando de um serviço que requer muita habilidade e muito treinamento
 
-00:36:08.710,00:36:11.910
+107
+00:36:08,710 --> 00:36:11,910
 Que ajuda a salvar dinheiro ou fazer dinheiro
 
-00:36:12.080,00:36:19.180
+108
+00:36:12,080 --> 00:36:19,180
 E... pensem num cirurgião do cérebro. Ele não ajuda a criar um produto
 
-00:36:19.180,00:36:22.057
+109
+00:36:19,180 --> 00:36:22,057
 Ele não termina obtendo um segundo cérebro
 
-00:36:22.050,00:36:26.750
+110
+00:36:22,050 --> 00:36:26,750
 "Hahah... tenho um segundo cérebro! Hahahah que legal!"
 
-00:36:26.880,00:36:31.880
+111
+00:36:26,880 --> 00:36:31,880
 Não! Ele repara o cérebro que tu possui. É um serviço!
 
-00:36:31.880,00:36:34.771
+112
+00:36:31,880 --> 00:36:34,771
 O céu sabe que advogados não produzem nada
 
-00:36:34.770,00:36:40.370
+113
+00:36:34,770 --> 00:36:40,370
 Mas ainda continuamos a pagá-los muito dinheiro porque eles continuam nos safando de muitos problemas
 
-00:36:40.370,00:36:44.770
+114
+00:36:40,370 --> 00:36:44,770
 É um serviço que requer muita habilidade
 
-00:36:44.770,00:36:49.571
+115
+00:36:44,770 --> 00:36:49,571
 Então... o que você não quer ser é: um instalador de pacotes
 
-00:36:49.570,00:36:58.428
+116
+00:36:49,570 --> 00:36:58,428
 Você não quer ser alguém que compra um pacote de software, coloca no computador de alguém, sem resolver o problema deles
 
-00:36:58.420,00:37:01.228
+117
+00:36:58,420 --> 00:37:01,228
 Porque você não vai fazer muito dinheiro desta forma
 
-00:37:01.250,00:37:05.514
+118
+00:37:01,250 --> 00:37:05,514
 Eles vão dizer: "eu posso comprar um estudante de ensino médio para fazer isto"
 
-00:37:05.600,00:37:08.571
+119
+00:37:05,600 --> 00:37:08,571
 E eles estarão certos
 
-00:37:08.680,00:37:16.980
+120
+00:37:08,680 --> 00:37:16,980
 Agora, 80% de todo software escrito no mundo não é software binário empacotado
 
-00:37:16.980,00:37:23.142
+121
+00:37:16,980 --> 00:37:23,142
 é escrito por administrados de sistemas, por físicos, por....
 
-00:37:23.140,00:37:29.040
+122
+00:37:23,140 --> 00:37:29,040
 pessoas de sistemas embarcados, como em aparelhos microondas e similares
 
-00:37:29.040,00:37:33.371
+123
+00:37:29,040 --> 00:37:33,371
 você nunca viu o pacote de software do seu forninho microondas na estante, ou já?
 
-00:37:33.370,00:37:36.570
+124
+00:37:33,370 --> 00:37:36,570
 a resposta é: não
 
-00:37:36.570,00:37:41.914
+125
+00:37:36,570 --> 00:37:41,914
 portanto, há vários empregos lá fora para o pessoal que sabe fazer isto
 
-00:37:41.910,00:37:46.610
+126
+00:37:41,910 --> 00:37:46,610
 e software livre potencializa o trabalho deles
 
-00:37:46.670,00:37:52.870
+127
+00:37:46,670 --> 00:37:52,870
 porque eles não precisam começar a escrever tudo do zero novamente
 
-00:37:52.870,00:37:59.370
+128
+00:37:52,870 --> 00:37:59,370
 e se as pessoas estão pensando em contratar um programador, a pergunta que eu tenho para eles é:
 
-00:37:59.370,00:38:09.170
+129
+00:37:59,370 --> 00:38:09,170
 por que, em nome de Deus, você iria contratar alguém que só sabe programar software de código fechado?
 
-00:38:09.170,00:38:16.570
+130
+00:38:09,170 --> 00:38:16,570
 sendo que elas não conseguem potencializar o que outras pessoas fizeram para te ajudar a resolver seu problema
 
-00:38:16.570,00:38:22.770
+131
+00:38:16,570 --> 00:38:22,770
 as pessoas que escrevem software livre sabem escrever software proprietário fechado
 
-00:38:22.770,00:38:29.570
+132
+00:38:22,770 --> 00:38:29,570
 mas elas também sabem como usar o software da comunidade de software livre, para fazer o trabalho dela
 
-00:38:29.570,00:38:31.942
+133
+00:38:29,570 --> 00:38:31,942
 de forma mais rápida e melhor
 
-00:38:31.942,00:38:34.970
+134
+00:38:31,942 --> 00:38:34,970
 quais tipos de trabalhos que estamos falando? 
 
-00:38:34.970,00:38:41.028
+135
+00:38:34,970 --> 00:38:41,028
 São todos aqueles tipos de empregos que você consegue quando é treinado com software proprietário
 
-00:38:41.050,00:38:46.485
+136
+00:38:41,050 --> 00:38:46,485
 você pode ser um programador, analista de sistemas, programador de sistemas...
 
-00:38:46.485,00:38:50.450
+137
+00:38:46,485 --> 00:38:50,450
 todas estas coisas... você pode ensinar às pessoas a como usar o software
 
-00:38:50.450,00:38:56.350
+138
+00:38:50,450 --> 00:38:56,350
 você pode ensinar nas escolas ou particularmente
 
-00:38:56.350,00:39:01.350
+139
+00:38:56,350 --> 00:39:01,350
 mas você pode fazer o seu trabalho em cada um destes empregos usando software livre
 
-00:39:01.350,00:39:06.050
+140
+00:39:01,350 --> 00:39:06,050
 e você pode cobrar, assim como vocês fazem usando software proprietário
 
-00:39:06.050,00:39:10.257
+141
+00:39:06,050 --> 00:39:10,257
 e uma tarefa é muito mais fácil de se fazer com software livre:
 
-00:39:10.250,00:39:15.550
+142
+00:39:10,250 --> 00:39:15,550
 mudar o software para que satisfaça as necessidades do cliente
 
-00:39:15.550,00:39:20.850
+143
+00:39:15,550 --> 00:39:20,850
 porque, ao menos que o seu nome é Bill Gates ou Larry Ellison,
 
-00:39:20.850,00:39:27.050
+144
+00:39:20,850 --> 00:39:27,050
 você não terá acesso ao código fonte da Microsoft ou Oracle
 
-00:39:27.050,00:39:31.750
+145
+00:39:27,050 --> 00:39:31,750
 mas com software livre, você pode!
 
-00:39:31.750,00:39:35.550
+146
+00:39:31,750 --> 00:39:35,550
 então, eu vou falar sobre alguns exemplos concretos
 
-00:39:35.550,00:39:41.914
+147
+00:39:35,550 --> 00:39:41,914
 No Rio de Janeiro, havia uma pequena empresa que queria pesquisar a floresta tropical
 
-00:39:41.910,00:39:46.010
+148
+00:39:41,910 --> 00:39:46,010
 para desenvolver novos medicamentos, novos materiais e coisas deste tipo
 
-00:39:46.250,00:39:49.571
+149
+00:39:46,250 --> 00:39:49,571
 eles iriam usar um software específico para isso
 
-00:39:49.570,00:39:55.257
+150
+00:39:49,570 --> 00:39:55,257
 chamado de Geographical Information Software (GIS)
 
-00:39:55.450,00:40:04.050
+151
+00:39:55,450 --> 00:40:04,050
 havia uma empresa no Canadá que fazia o melhor software para isto. O nome dela era ESRI
 
-00:40:04.050,00:40:09.350
+152
+00:40:04,050 --> 00:40:09,350
 existem dois tipos de software proprietário no mundo:
 
-00:40:09.350,00:40:12.371
+153
+00:40:09,350 --> 00:40:12,371
 existe o software proprietário caro
 
-00:40:12.370,00:40:18.870
+154
+00:40:12,370 --> 00:40:18,870
 e existe o software proprietário CARO PARA DEDÉU. Este era o caso do software feito pela ESRI
 
-00:40:18.870,00:40:24.470
+155
+00:40:18,870 --> 00:40:24,470
 custando US$ 500.000,00 por cópia!
 
-00:40:24.470,00:40:33.070
+156
+00:40:24,470 --> 00:40:33,070
 e esta empresa pequena precisava de 9 cópias: US$ 4,5 milhões!
 
-00:40:33.070,00:40:44.370
+157
+00:40:33,070 --> 00:40:44,370
 agora, vocês podem pensar, que com US$ 4,5 milhões, ESRI poderia fazer uma versão do software em português
 
-00:40:44.370,00:40:49.370
+158
+00:40:44,370 --> 00:40:49,370
 Não! Só havia a versão inglesa
 
-00:40:49.370,00:40:56.170
+159
+00:40:49,370 --> 00:40:56,170
 Você pode imaginar alguém que não sabe inglês... que só sabe português?
 
-00:40:56.170,00:41:01.628
+160
+00:40:56,170 --> 00:41:01,628
 Bem, as nove pessoas que trabalhavam nessa empresa só sabiam português
 
-00:41:01.620,00:41:09.485
+161
+00:41:01,620 --> 00:41:09,485
 Então eles perguntaram para a ESRI: "vocês podem, por favor, fazer uma cópia em português?"
 
-00:41:09.480,00:41:12.680
+162
+00:41:09,480 --> 00:41:12,680
 A ESRI respondeu: "NÃO!"
 
-00:41:12.680,00:41:19.780
+163
+00:41:12,680 --> 00:41:19,780
 essa pequena empresa então procurou um programador de software com código aberto
 
-00:41:19.780,00:41:27.657
+164
+00:41:19,780 --> 00:41:27,657
 e disse: "nós não precisamos todas as funcionalidades da ESRI. Apenas precisamos desta partezinha. Tem como fazer isto?"
 
-00:41:27.650,00:41:30.550
+165
+00:41:27,650 --> 00:41:30,550
 E o programador de código aberto disse: "Sim!"
 
-00:41:30.550,00:41:34.350
+166
+00:41:30,550 --> 00:41:34,350
 Ele pegou software OpenGIS...
 
-00:41:34.350,00:41:39.650
+167
+00:41:34,350 --> 00:41:39,650
 pegou Postgres, um motor de banco de dados, para armazenar os dados...
 
-00:41:39.650,00:41:44.650
+168
+00:41:39,650 --> 00:41:44,650
 pegou GNUPlot para plotar os mapas que eles precisassem
 
-00:41:44.650,00:41:47.771
+169
+00:41:44,650 --> 00:41:47,771
 e Perl para amarrar todas as coisas
 
-00:41:47.770,00:41:58.057
+170
+00:41:47,770 --> 00:41:58,057
 Em 3 meses, pelo custo de US$ 380.000 ele fez exatamente o software que a pequena empresa precisava
 
-00:41:58.057,00:42:01.085
+171
+00:41:58,057 --> 00:42:01,085
 Eu tenho umas perguntas para vocês
 
-00:42:01.080,00:42:08.180
+172
+00:42:01,080 --> 00:42:08,180
 Quantos de vocês já ganharam US$ 380.000 em um período de 3 meses?
 
-00:42:09.650,00:42:14.885
+173
+00:42:09,650 --> 00:42:14,885
 Bem, levantei a minha mão porque eu já ganhei
 
-00:42:14.880,00:42:21.080
+174
+00:42:14,880 --> 00:42:21,080
 2. Qual é o valor desse software?
 
-00:42:21.080,00:42:27.485
+175
+00:42:21,080 --> 00:42:27,485
 Bem, muitas pessoas diriam que o valor do software era de US$ 380.000
 
-00:42:27.480,00:42:31.580
+176
+00:42:27,480 --> 00:42:31,580
 Porque este foi o valor que o programador de software recebeu
 
-00:42:31.580,00:42:37.780
+177
+00:42:31,580 --> 00:42:37,780
 Outras pessoas diriam que o custo do software era de US$ 4,5 milhões
 
-00:42:37.828,00:42:42.000
+178
+00:42:37,828 --> 00:42:42,000
 Porque este é o valor que a pequena empresa pagaria à ESRI
 
-00:42:42.000,00:42:47.300
+179
+00:42:42,000 --> 00:42:47,300
 Mas a resposta certa é: este software era infinitamente valioso
 
-00:42:47.300,00:42:52.000
+180
+00:42:47,300 --> 00:42:52,000
 Porque sem ele a pequena empresa não poderia existir
 
-00:42:52.000,00:42:58.800
+181
+00:42:52,000 --> 00:42:58,800
 Logo, é o valor adicionado, a transformação que acontece
 
-00:42:58.800,00:43:02.514
+182
+00:42:58,800 --> 00:43:02,514
 Que é o responsável pela diferença
 
-00:43:06.140,00:43:14.440
+183
+00:43:06,140 --> 00:43:14,440
 Ao redor do mundo, 5 lugares testam quão eficiente uma turbina de vento (vapor) é
 
-00:43:14.440,00:43:17.542
+184
+00:43:14,440 --> 00:43:17,542
 É um pedaço de maquinário...
 
-00:43:17.540,00:43:25.540
+185
+00:43:17,540 --> 00:43:25,540
 Bem, hoje você pode modelar com pura matemática e emulação
 
-00:43:25.540,00:43:29.940
+186
+00:43:25,540 --> 00:43:29,940
 Mas há pouco tempo atrás isto não era possível
 
-00:43:29.940,00:43:34.485
+187
+00:43:29,940 --> 00:43:34,485
 Então, você tinha que construir a turbina e mandar para um destes lugares
 
-00:43:34.480,00:43:38.485
+188
+00:43:34,480 --> 00:43:38,485
 Para que eles testassem a eficiência dela
 
-00:43:38.840,00:43:43.540
+189
+00:43:38,840 --> 00:43:43,540
 Mas, 4 destes lugares usavam software proprietário
 
-00:43:43.540,00:43:52.440
+190
+00:43:43,540 --> 00:43:52,440
 E quando o engenheiro que projetou a turbina precisava fazer uma pequena mudança, levava de 3 a 4 meses
 
-00:43:52.440,00:43:58.340
+191
+00:43:52,440 --> 00:43:58,340
 Para que a pequena mudança estivesse pronta no software e o engenheiro pudesse continuar
 
-00:43:58.340,00:44:04.540
+192
+00:43:58,340 --> 00:44:04,540
 O 5º lugar, em Pittsburgh, usava software livre
 
-00:44:04.540,00:44:08.940
+193
+00:44:04,540 --> 00:44:08,940
 Ele usava banco de dados MySQL para armazenar as informações
 
-00:44:08.940,00:44:14.840
+194
+00:44:08,940 --> 00:44:14,840
 GNUPlot para desenhar os resultados da saída que podem aqui ser vistos em azul
 
-00:44:14.840,00:44:21.940
+195
+00:44:14,840 --> 00:44:21,940
 Tcl/tk para desenhar um mapa que mostra onde estão todos os centros e configurações e tudo mais
 
-00:44:21.940,00:44:25.440
+196
+00:44:21,940 --> 00:44:25,440
 E python para juntar tudo
 
-00:44:25.440,00:44:31.340
+197
+00:44:25,440 --> 00:44:31,340
 Não apenas era menos custoso para ele, tendo escrito o software
 
-00:44:31.340,00:44:35.140
+198
+00:44:31,340 --> 00:44:35,140
 Como também poderia fazer uma mudança de um dia para o outro
 
-00:44:35.140,00:44:41.340
+199
+00:44:35,140 --> 00:44:41,340
 Para que os engenheiros, os quais eram os seus clientes, poderiam ter a mudança no próximo dia
 
-00:44:41.340,00:44:49.640
+200
+00:44:41,340 --> 00:44:49,640
 Este era o seu valor adicional, ele era muito melhor que os outros 4 locais de teste
 
-00:44:50.940,00:44:57.740
+201
+00:44:50,940 --> 00:44:57,740
 Sistema de metrô de São Paulo. O responsável pelo sistema de metrô de São Paulo tinha um problema:
 
-00:44:57.740,00:45:03.340
+202
+00:44:57,740 --> 00:45:03,340
 O metrô estava bastante sujo, mas não tinha dinheiro algum para faxineiros de metrô
 
-00:45:03.340,00:45:11.340
+203
+00:45:03,340 --> 00:45:11,340
 Ele notou que a Microsoft estava prester a cobrar dele por uma nova licença do Microsoft Office
 
-00:45:11.340,00:45:16.485
+204
+00:45:11,340 --> 00:45:16,485
 E ele tinha tantas pessoas no sistema do metrô que usavam Microsoft Office
 
-00:45:16.480,00:45:21.857
+205
+00:45:16,480 --> 00:45:21,857
 Que ele se perguntou: "Por que não usar o LibreOffice no lugar?"
 
-00:45:22.040,00:45:29.085
+206
+00:45:22,040 --> 00:45:29,085
 Então, em vez de renovar a licença, ele usou LibreOffi
 
-00:45:29.080,00:45:34.680
+207
+00:45:29,080 --> 00:45:34,680
 Pegou este dinheiro e contratou faxineiros de metrô
 
-00:45:34.840,00:45:39.840
+208
+00:45:34,840 --> 00:45:39,840
 E os faxineiros do metrô começaram a limpá-lo, ficando mais limpo...
 
-00:45:39.840,00:45:43.040
+209
+00:45:39,840 --> 00:45:43,040
 Mais pessoas começaram a usar o metrô...
 
-00:45:43.040,00:45:49.540
+210
+00:45:43,040 --> 00:45:49,540
 Aumentando a arrecadação do metrô, tornando possível contratar mais faxineiros
 
-00:45:49.540,00:45:58.140
+211
+00:45:49,540 --> 00:45:58,140
 Ele disse para mim: "sabe, Maddog, todo mundo me conta como o metrô está mais limpo agora"...
 
-00:45:58.140,00:46:06.440
+212
+00:45:58,140 --> 00:46:06,440
 "Mas, em todo o tempo que estávamos usando Microsoft Office, ninguém veio me dizer que 'aquela carta era realmente legal'"
 
-00:46:06.440,00:46:11.140
+213
+00:46:06,440 --> 00:46:11,140
 "'porque o Microsoft Office a fazia ser fantástica'"
 
-00:46:11.140,00:46:20.340
+214
+00:46:11,140 --> 00:46:20,340
 Logo, aqui, o valor adicional está em você usar o dinheiro economizado em software para fazer alguma outra coisa
 
-00:46:20.340,00:46:25.340
+215
+00:46:20,340 --> 00:46:25,340
 Lembrem-se, retorno sobre o investimento
 
-00:46:26.420,00:46:31.400
+216
+00:46:26,420 --> 00:46:31,400
 Caixa Econômica Federal! Ela é dona do sistema de loteria
 
-00:46:31.400,00:46:39.400
+217
+00:46:31,400 --> 00:46:39,400
 Oh, vocês brasileiros, amam a loteria. Vocês geram muito dinheiro com a loteria!
 
-00:46:39.400,00:46:45.085
+218
+00:46:39,400 --> 00:46:45,085
 E uma vez que você usa software proprietário para a loteria
 
-00:46:45.080,00:46:52.885
+219
+00:46:45,080 --> 00:46:52,885
 Custaria, uh, antes disso... eles pagavam R$ 1 milhão para a empresa que mantinha o software da loteria
 
-00:46:52.880,00:46:57.485
+220
+00:46:52,880 --> 00:46:57,485
 Mas eles não ligavam para isso.... porque é a loteria!
 
-00:46:57.770,00:47:01.210
+221
+00:46:57,770 --> 00:47:01,210
 Mas, em segundo lugar, eles realmente importavam-se que...
 
-00:47:01.210,00:47:07.410
+222
+00:47:01,210 --> 00:47:07,410
 ... demorava em torno de 10 meses para desenvolver um novo jogo para a loteria
 
-00:47:07.410,00:47:13.910
+223
+00:47:07,410 --> 00:47:13,910
 Então, eles decidiram usar software livre para a loteria. Eles contrataram 3 programadores para fazer isto
 
-00:47:13.910,00:47:21.310
+224
+00:47:13,910 --> 00:47:21,310
 Eles então descobriram que os 3 programadores podiam escrever um novo jogo em torno de 3 semanas!
 
-00:47:21.310,00:47:29.310
+225
+00:47:21,310 --> 00:47:29,310
 Vocês sabem quanto dinheiro é gerado quando existe um jogo novo da loteria, de 9 meses em uma semana mais cedo?
 
-00:47:29.310,00:47:33.110
+226
+00:47:29,310 --> 00:47:33,110
 Isso geram MUITO DINHEIRO
 
-00:47:33.110,00:47:37.200
+227
+00:47:33,110 --> 00:47:37,200
 Não, não, MUITO DINHEIRO!
 
-00:47:37.200,00:47:41.257
+228
+00:47:37,200 --> 00:47:41,257
 Mesmo, quero dizer, MUITO DINHEIRO!!!
 
-00:47:41.250,00:47:48.650
+229
+00:47:41,250 --> 00:47:48,650
 E eu lhes garanto que estes 3 programadores não tiravam R$ 1 milhão cada mês
 
-00:47:48.650,00:47:54.628
+230
+00:47:48,650 --> 00:47:54,628
 Então, aqui, o valor adicionado estava na mudança pela criação de um jogo de computador
 
-00:47:54.620,00:47:58.657
+231
+00:47:54,620 --> 00:47:58,657
 Voltado aos brasileiros loucos por loteria
 
-00:48:00.820,00:48:07.628
+232
+00:48:00,820 --> 00:48:07,628
 Agora, todos estes diferentes tipos de programas falam de uma coisa específica na indústria de computadores
 
-00:48:07.620,00:48:10.457
+233
+00:48:07,620 --> 00:48:10,457
 Chamada de revenda com valor adicionado
 
-00:48:10.450,00:48:14.257
+234
+00:48:10,450 --> 00:48:14,257
 Alguém que pega componentes de lugares diferentes
 
-00:48:14.250,00:48:18.050
+235
+00:48:14,250 --> 00:48:18,050
 E torna isto em uma solução para alguém
 
-00:48:18.050,00:48:21.971
+236
+00:48:18,050 --> 00:48:21,971
 E isto é um emprego muito valioso de se ter
 
-00:48:21.970,00:48:28.000
+237
+00:48:21,970 --> 00:48:28,000
 Quando eu levantei a mão dizendo que tinha ganho US$ 380.000 em 3 meses uma vez...
 
-00:48:28.000,00:48:33.271
+238
+00:48:28,000 --> 00:48:33,271
 Era mentira. Na verdade, foi US$ 500.000
 
-00:48:33.270,00:48:35.828
+239
+00:48:33,270 --> 00:48:35,828
 E foi em 20 minutos
 
-00:48:35.820,00:48:41.571
+240
+00:48:35,820 --> 00:48:41,571
 Porque eu trabalhava... fui... até uma empresa, vi um problema e disse:
 
-00:48:41.570,00:48:46.442
+241
+00:48:41,570 --> 00:48:46,442
 "Quanto isto custa para vocês a cada ano?" e eles disseram "US$ 2 milhões"
 
-00:48:46.440,00:48:50.570
+242
+00:48:46,440 --> 00:48:50,570
 Eu disse: "posso resolver este problema, quanto vocês me pagariam?"
 
-00:48:50.570,00:48:54.714
+243
+00:48:50,570 --> 00:48:54,714
 E eles disseram: "nós vamos te pagar US$ 500 mil"
 
-00:48:54.710,00:48:59.114
+244
+00:48:54,710 --> 00:48:59,114
 Eu disse: "OK"
 
-00:48:59.110,00:49:05.310
+245
+00:48:59,110 --> 00:49:05,310
 Eu sentei e em 3 horas eu escrevi cerca de 50 linhas de código
 
-00:49:05.310,00:49:09.410
+246
+00:49:05,310 --> 00:49:09,410
 Dei o código a eles e então disse: "US$ 500 mil, por favor"
 
-00:49:09.410,00:49:14.485
+247
+00:49:09,410 --> 00:49:14,485
 E eles ficaram bem transtornados
 
-00:49:14.480,00:49:17.742
+248
+00:49:14,480 --> 00:49:17,742
 Eles me pagaram os US$ 500 mil
 
-00:49:17.740,00:49:20.428
+249
+00:49:17,740 --> 00:49:20,428
 Porque eu disse: "ok, vou pegar meu código de volta"
 
-00:49:20.420,00:49:22.914
+250
+00:49:20,420 --> 00:49:22,914
 "Não, não, não. Não faça isto!"
 
-00:49:23.600,00:49:30.910
+251
+00:49:23,600 --> 00:49:30,910
 Você pode fazer muito dinheiro, de verdade, se você prover uma solução que o cliente precisa
 
-00:49:30.910,00:49:36.771
+252
+00:49:30,910 --> 00:49:36,771
 E em muitas das vezes você pode pegar esta solução e também vendê-la para outros clientes
 
-00:49:36.770,00:49:42.800
+253
+00:49:36,770 --> 00:49:42,800
 O seu primeiro cliente não se importa, realmente, se você repassar esta solução para outrém
 
-00:49:42.800,00:49:46.771
+254
+00:49:42,800 --> 00:49:46,771
 Talvez não seja o competidor direto deles e eles aceitam isso
 
-00:49:46.770,00:49:52.800
+255
+00:49:46,770 --> 00:49:52,800
 Assim sendo, você pode repetidamente melhorar esta mesma solução
 
-00:49:54.070,00:49:57.685
+256
+00:49:54,070 --> 00:49:57,685
 Todos estes são modelos reais de negócio
 
-00:49:57.680,00:50:01.780
+257
+00:49:57,680 --> 00:50:01,780
 Havia um homem, em Nashua, New Hampshire, perto da minha casa
 
-00:50:01.780,00:50:07.680
+258
+00:50:01,780 --> 00:50:07,680
 Ele tinha uma empresa que criou um software bastante grande
 
-00:50:07.680,00:50:13.580
+259
+00:50:07,680 --> 00:50:13,580
 E os seus clientes queriam portar esta solução para vários sistemas
+
